@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Would you like this turned into a concrete control matrix mapped to preventive, detective, and responsive controls for a GitLab-style on-prem pipeline?
+# CI CD Control matrix mapped to preventive, detective, and responsive controls for a GitLab-style on-prem pipeline?
 
 Assume that we are primarily on premise and can control the download/updates to be stored on local self hosted repositories or mirrors.  Add in appropriate approval.
 Add in delay (if appropriate) and processes to continuously validate what we have.
